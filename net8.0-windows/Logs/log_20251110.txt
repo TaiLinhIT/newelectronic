@@ -22,3 +22,11 @@
 13:22:23 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
 13:23:42 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
 13:27:27 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+13:46:32 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+13:53:23 - CRC check failed for data: 80 80 80 80 80 80 00 01 83 02 10 F0 9C
+13:53:34 - Incomplete data for Ia_Address_1 at address 1.
+13:53:34 - Máy 1 đã phản hồi đúng hạn.
+13:53:45 - Incomplete data for Ib_Address_1 at address 1.
+13:53:45 - Máy 1 đã phản hồi đúng hạn.
+13:53:56 - Incomplete data for Ic_Address_1 at address 1.
+13:53:56 - Máy 1 đã phản hồi đúng hạn.

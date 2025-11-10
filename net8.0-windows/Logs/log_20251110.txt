@@ -30,3 +30,58 @@
 13:53:45 - Máy 1 đã phản hồi đúng hạn.
 13:53:56 - Incomplete data for Ic_Address_1 at address 1.
 13:53:56 - Máy 1 đã phản hồi đúng hạn.
+14:09:44 - Incomplete data for Exp_Address_1 at address 1.
+14:09:44 - Máy 1 đã phản hồi đúng hạn.
+14:09:55 - Incomplete data for Ia_Address_1 at address 1.
+14:09:55 - Máy 1 đã phản hồi đúng hạn.
+14:10:06 - Incomplete data for Ib_Address_1 at address 1.
+14:10:06 - Máy 1 đã phản hồi đúng hạn.
+14:10:17 - Incomplete data for Ic_Address_1 at address 1.
+14:10:17 - Máy 1 đã phản hồi đúng hạn.
+14:10:28 - Incomplete data for Imp_Address_1 at address 1.
+14:10:28 - Máy 1 đã phản hồi đúng hạn.
+14:10:39 - Incomplete data for Pa_Address_1 at address 1.
+14:10:39 - Máy 1 đã phản hồi đúng hạn.
+14:10:50 - Incomplete data for Pb_Address_1 at address 1.
+14:10:50 - Máy 1 đã phản hồi đúng hạn.
+14:11:01 - Incomplete data for Pc_Address_1 at address 1.
+14:11:01 - Máy 1 đã phản hồi đúng hạn.
+14:11:12 - Incomplete data for Pt_Address_1 at address 1.
+14:11:12 - Máy 1 đã phản hồi đúng hạn.
+14:11:23 - Incomplete data for Ua_Address_1 at address 1.
+14:11:23 - Máy 1 đã phản hồi đúng hạn.
+14:11:34 - Incomplete data for Ub_Address_1 at address 1.
+14:11:34 - Máy 1 đã phản hồi đúng hạn.
+14:11:45 - Incomplete data for Uc_Address_1 at address 1.
+14:11:45 - Máy 1 đã phản hồi đúng hạn.
+14:11:53 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+14:11:54 - Máy 9: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+14:11:55 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+14:11:56 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+14:11:57 - Máy 10: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+14:16:56 - Incomplete data for Exp_Address_1 at address 1.
+14:16:56 - Máy 1 đã phản hồi đúng hạn.
+14:17:08 - Incomplete data for Ia_Address_1 at address 1.
+14:17:08 - Máy 1 đã phản hồi đúng hạn.
+14:17:19 - Incomplete data for Ib_Address_1 at address 1.
+14:17:19 - Máy 1 đã phản hồi đúng hạn.
+14:17:30 - Incomplete data for Ic_Address_1 at address 1.
+14:17:30 - Máy 1 đã phản hồi đúng hạn.
+14:17:41 - Incomplete data for Imp_Address_1 at address 1.
+14:17:41 - Máy 1 đã phản hồi đúng hạn.
+14:17:52 - Incomplete data for Pa_Address_1 at address 1.
+14:17:52 - Máy 1 đã phản hồi đúng hạn.
+14:18:03 - Incomplete data for Pb_Address_1 at address 1.
+14:18:03 - Máy 1 đã phản hồi đúng hạn.
+14:18:14 - Incomplete data for Pc_Address_1 at address 1.
+14:18:14 - Máy 1 đã phản hồi đúng hạn.
+14:18:25 - Incomplete data for Pt_Address_1 at address 1.
+14:18:25 - Máy 1 đã phản hồi đúng hạn.
+14:18:36 - Incomplete data for Ua_Address_1 at address 1.
+14:18:36 - Máy 1 đã phản hồi đúng hạn.
+14:18:47 - Incomplete data for Ub_Address_1 at address 1.
+14:18:47 - Máy 1 đã phản hồi đúng hạn.
+14:58:28 - Incomplete data for Exp_Address_1 at address 1.
+14:58:28 - Máy 1 đã phản hồi đúng hạn.
+15:05:58 - Incomplete data for Exp_Address_1 at address 1.
+15:05:58 - Máy 1 đã phản hồi đúng hạn.
